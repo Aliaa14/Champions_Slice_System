@@ -1,3 +1,12 @@
 # Champions_Slice_System
 
-CSc 322 - Software Engineering final project
+CSc322 - Software Engineering Final Project
+
+Professor Jie Wie Fall 2020
+
+Team A:
+Aliaa Abdelrahman
+Ismail Akram
+Inna Baryanova
+Kevin Peter
+
