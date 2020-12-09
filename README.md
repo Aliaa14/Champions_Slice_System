@@ -10,3 +10,5 @@ Ismail Akram
 Inna Baryanova
 Kevin Peter
 
+// Script to run build before every deploy
+npm run build
