@@ -1,5 +1,4 @@
 /*Chef header*/
-
 .chefHeader {
     width: 100%;
     display: flex;
@@ -7,18 +6,14 @@
     align-items: center;
 }
 
-
 /*Chef header && Avatar*/
-
 .chefHeader .chefAvatar {
     width: 80px;
     height: 80px;
     margin-right: 25px;
 }
 
-
 /*Pizza creation content*/
-
 .PizzaCreation {
     flex-direction: column;
     align-items: flex-start;
